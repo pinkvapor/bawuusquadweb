@@ -1,0 +1,16 @@
+body{
+	background-color: pink;
+}
+
+h1 {
+	text-align: center;
+	font-family: Impact, sans-serif;
+	font-size: 40px;
+	color: white;
+}
+
+p,li {
+	font-family: Helvetica, sans-serif;	
+	font-size: 18px;
+	line-height: 24px;
+}
