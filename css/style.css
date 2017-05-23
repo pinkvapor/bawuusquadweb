@@ -2,6 +2,26 @@ body{
 	background-color: pink;
 }
 
+nav ul {
+	list-style: none;
+	padding: 0;
+}
+
+nav li  {
+	float: left;
+	text-align: center;
+	width: 33.33%;
+}
+
+nav a {
+	color: powderblue;
+	text-decoration: none;
+}
+
+nav a:hover {
+	text-decoration: underline;
+}
+
 h1 {
 	text-align: center;
 	font-family: Impact, sans-serif;
